@@ -5,5 +5,5 @@ The problem of credit card transaction fraud is very serious in America. Accordi
 #### Data Information
 Data description: This is credit card transaction data. To be more specific, each row in the dataset is a record of a credit card transaction on a specific date with a specific merchant, including the transaction amount. The data also indicates whether each transaction is fraud or not.
 There are 96,753 records and 10 fields in this data set.
-#### Model Used
+#### Models Used
 Logistic Regression. Neural Network. Boosted Tree. Random Forest.
